@@ -1,10 +1,10 @@
-const items = require("./data/items");
+const products = require("./data/products");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
 module.exports = {
-  items,
+  products,
   tags,
   brands,
   itemTypes

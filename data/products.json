@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "preco": 10.99,
+    "nome": "Expresso de chocolate",
+    "quantGramas": "100g",
+    "quantCliques": 0,
+    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar"
+  },
+  {
+    "id": 2,
+    "preco": 1.99,
+    "nome": "Café simples",
+    "quantGramas": "100g",
+    "quantCliques": 0,
+    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar"
+  }
+]
