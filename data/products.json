@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "preco": 10.99,
     "nome": "Expresso de chocolate",
     "quantGramas": "100g",
@@ -9,7 +9,7 @@
     "linkImagem": "linkImagem"
   },
   {
-    "id": 2,
+    "id": "2",
     "preco": 1.99,
     "nome": "Café simples",
     "quantGramas": "100g",
