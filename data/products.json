@@ -5,7 +5,8 @@
     "nome": "Expresso de chocolate",
     "quantGramas": "100g",
     "quantCliques": 0,
-    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar"
+    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar",
+    "linkImagem": "linkImagem"
   },
   {
     "id": 2,
@@ -13,6 +14,7 @@
     "nome": "Café simples",
     "quantGramas": "100g",
     "quantCliques": 0,
-    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar"
+    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar",
+    "linkImagem": "linkImagem"
   }
 ]
