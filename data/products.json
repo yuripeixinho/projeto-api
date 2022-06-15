@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "oder": 0,
+    "order": "0",
     "preco": 10.99,
     "nome": "Expresso de chocolate",
     "quantGramas": "100g",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "oder": 0,
+    "order": "1",
     "preco": 1.99,
     "nome": "Café simples",
     "quantGramas": "100g",
