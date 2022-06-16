@@ -1,22 +1,42 @@
 [
   {
     "id": 1,
-    "order": "0",
-    "preco": 10.99,
-    "nome": "Expresso de chocolate",
-    "quantGramas": "100g",
-    "quantCliques": 0,
-    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar",
-    "linkImagem": "linkImagem"
+    "nome": "Pikachu",
+    "descricao": "Pikachu é um tipo de Pokémon elétrico: os bolsos em suas bochechas, identificado por discos vermelhos que decoram, são capazes de gerar choques elétricos de intensidade variável, chegando até o nível de poder de um raio. Eles também o usam para se defender.",
+    "vida": 200,
+    "dano": 30,
+    "preco": 299.0,
+    "quantCliques": 1,
+    "linkImagem": "https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png"
   },
   {
     "id": 2,
-    "order": "1",
-    "preco": 1.99,
-    "nome": "Café simples",
-    "quantGramas": "100g",
-    "quantCliques": 0,
-    "ingredientes": "Grão de cacau, sal, grão de bico, água filtrada, açucar",
-    "linkImagem": "linkImagem"
+    "nome": "Bulbassauro",
+    "descricao": "Bulbasauros são criados por Criadores Pokémon para a época de serem pegos pelos Treinadores Iniciantes. Devido a isso são considerados Pokémon Comportados. Alguns consideram ele o Pokémon mais fácil para começar pois tem vantagem contra os dois primeiros líderes de ginásio da região de Kanto, que são Brock e Misty. Os Bulbasaur tendem a ter uma forte lealdade a seus amigos e Treinadores.",
+    "vida": 200,
+    "dano": 30,
+    "preco": 299.0,
+    "quantCliques": 1,
+    "linkImagem": "https://static.wikia.nocookie.net/pokedex-br/images/a/a2/Bulbasauro_Pose.png/revision/latest?cb=20151224122219&path-prefix=pt-br"
+  },
+  {
+    "id": 3,
+    "nome": "Squirtle",
+    "descricao": "Squirtle é um pequeno Pokémon, azul-claro com uma aparência semelhante ao de uma tartaruga. Como tartarugas, Squirtle tem um escudo que cobre seu corpo com orifícios que permitem que seus membros, cauda e cabeça para ser exposto. Ao contrário de uma tartaruga, Squirtle é normalmente bípede.",
+    "vida": 200,
+    "dano": 30,
+    "preco": 299.0,
+    "quantCliques": 1,
+    "linkImagem": "http://assets.stickpng.com/images/580b57fcd9996e24bc43c32a.png"
+  },
+  {
+    "id": 4,
+    "nome": "Charmander",
+    "descricao": "Pikachu é um tipo de Pokémon elétrico: os bolsos em suas bochechas, identificado por discos vermelhos que decoram, são capazes de gerar choques elétricos de intensidade variável, chegando até o nível de poder de um raio. Eles também o usam para se defender.",
+    "vida": 200,
+    "dano": 30,
+    "preco": 299.0,
+    "quantCliques": 1,
+    "linkImagem": "https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png"
   }
 ]
