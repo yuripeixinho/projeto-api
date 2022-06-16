@@ -1,10 +1,10 @@
-const products = require("./data/products");
+const pokemons = require("./data/pokemons");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
 module.exports = {
-  products,
+  pokemons,
   tags,
   brands,
   itemTypes
