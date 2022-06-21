@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Daniel",
+    "pokeCoin": 500,
+    "linkFotoPerfil": "link",
+    "pokemons": []
+  },
+  {
+    "id": 2,
+    "nome": "Churros",
+    "pokeCoin": 500,
+    "linkFotoPerfil": "link",
+    "pokemons": []
+  },
+  {
+    "id": 3,
+    "nome": "Yago",
+    "pokeCoin": 500,
+    "linkFotoPerfil": "link",
+    "pokemons": []
+  }
+]

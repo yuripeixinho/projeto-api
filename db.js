@@ -1,15 +1,14 @@
 const pokemons = require("./data/pokemons");
 const tags = require("./data/tags");
-const brands = require("./data/brands");
+const users = require("./data/users");
 const itemTypes = require("./data/itemTypes");
 
 module.exports = {
   pokemons,
   tags,
-  brands,
-  itemTypes
-}
-
+  users,
+  itemTypes,
+};
 
 // const items = require("./data/items");
 
@@ -19,10 +18,8 @@ module.exports = {
 //   tags = [].concat.apply([], tags);
 //   tags = [...new Set(tags)];
 
- 
-
-//   var brands = items.map((i) => i.manufacturer);
-//   brands = [...new Set(brands)];
+//   var users = items.map((i) => i.manufacturer);
+//   users = [...new Set(users)];
 
 //   var itemTypes = items.map((i) => i.itemType);
 //   itemTypes = [...new Set(itemTypes)];
@@ -30,7 +27,7 @@ module.exports = {
 //   return {
 //     items,
 //     tags,
-//     brands,
+//     users,
 //     itemTypes,
 //   };
 // };
