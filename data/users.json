@@ -2,6 +2,8 @@
   {
     "id": 1,
     "nome": "Daniel",
+    "email": "daniel@gmail.com",
+    "senha": "12312",
     "pokeCoin": 500,
     "linkFotoPerfil": "link",
     "pokemons": []
@@ -9,6 +11,8 @@
   {
     "id": 2,
     "nome": "Churros",
+    "email": "churros@gmail.com",
+    "senha": "4444",
     "pokeCoin": 500,
     "linkFotoPerfil": "link",
     "pokemons": []
@@ -16,6 +20,8 @@
   {
     "id": 3,
     "nome": "Yago",
+    "email": "yago@gmail.com",
+    "senha": "555",
     "pokeCoin": 500,
     "linkFotoPerfil": "link",
     "pokemons": []
