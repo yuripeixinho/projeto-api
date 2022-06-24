@@ -33,11 +33,23 @@
     "pokemons": [
       {
         "id": 1,
-        "nome": "Pikachu"
+        "nome": "Pikachu",
+        "descricao": "Pikachu é um tipo de Pokémon elétrico: os bolsos em suas bochechas, identificado por discos vermelhos que decoram, são capazes de gerar choques elétricos de intensidade variável, chegando até o nível de poder de um raio. Eles também o usam para se defender.",
+        "vida": 200,
+        "dano": 30,
+        "preco": 299.0,
+        "quantCliques": 1,
+        "linkImagem": "https://www.pngmart.com/files/2/Pikachu-PNG-Transparent-Image.png"
       },
       {
         "id": 2,
-        "nome": "Bulbassauro"
+        "nome": "Bulbassauro",
+        "descricao": "Bulbasauros são criados por Criadores Pokémon para a época de serem pegos pelos Treinadores Iniciantes. Devido a isso são considerados Pokémon Comportados. Alguns consideram ele o Pokémon mais fácil para começar pois tem vantagem contra os dois primeiros líderes de ginásio da região de Kanto, que são Brock e Misty. Os Bulbasaur tendem a ter uma forte lealdade a seus amigos e Treinadores.",
+        "vida": 200,
+        "dano": 30,
+        "preco": 299.0,
+        "quantCliques": 1,
+        "linkImagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f619ed0-b566-4538-8392-bf02ca7a76cd/dck5gvr-d1a822f4-cb27-46b3-a0ad-5538b486b6f5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNjE5ZWQwLWI1NjYtNDUzOC04MzkyLWJmMDJjYTdhNzZjZFwvZGNrNWd2ci1kMWE4MjJmNC1jYjI3LTQ2YjMtYTBhZC01NTM4YjQ4NmI2ZjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9BrIks7SssFXJqO3zrbCWwfOPzVuui9_Q89iV9uwP2Y"
       }
     ]
   }
