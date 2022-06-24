@@ -13,8 +13,7 @@
     "email": "churros@gmail.com",
     "senha": "4444",
     "pokeCoin": 500,
-    "linkFotoPerfil": "link",
-    "pokemons": []
+    "linkFotoPerfil": "link"
   },
   {
     "id": 3,
@@ -22,22 +21,13 @@
     "email": "yago@gmail.com",
     "senha": "555",
     "pokeCoin": 500,
-    "linkFotoPerfil": "link",
-    "pokemons": []
+    "linkFotoPerfil": "link"
   },
   {
     "email": "yuripeixinho03@gmail.com",
     "linkFotoPerfil": "https://avatars.githubusercontent.com/u/80868258?v=4",
     "nome": "Yuri Peixinho",
     "pokeCoin": 500,
-    "pokemons": [
-      {
-        "pokemon1": "12312"
-      },
-      {
-        "pokemon1": "2"
-      }
-    ],
     "senha": "@Hotmail123",
     "id": 4
   }
