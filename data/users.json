@@ -29,6 +29,16 @@
     "nome": "Yuri Peixinho",
     "pokeCoin": 500,
     "senha": "@Hotmail123",
-    "id": 4
+    "id": 4,
+    "pokemons": [
+      {
+        "id": 1,
+        "nome": "Pikachu"
+      },
+      {
+        "id": 2,
+        "nome": "Bulbassauro"
+      }
+    ]
   }
 ]
