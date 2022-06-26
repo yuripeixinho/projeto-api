@@ -5,7 +5,8 @@
     "linkFotoPerfil": "https://avatars.githubusercontent.com/u/80868258?v=4",
     "pokeCoin": 500,
     "senha": "12312",
-    "id": 1
+    "id": 1,
+    "tipoPerfil": "visitante"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "email": "churros@gmail.com",
     "senha": "4444",
     "pokeCoin": 500,
-    "linkFotoPerfil": "link"
+    "linkFotoPerfil": "link",
+    "tipoPerfil": "administrador"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "email": "yago@gmail.com",
     "senha": "555",
     "pokeCoin": 500,
-    "linkFotoPerfil": "link"
+    "linkFotoPerfil": "link",
+    "tipoPerfil": "administrador"
   },
   {
     "email": "yuripeixinho03@gmail.com",
@@ -51,6 +54,7 @@
         "quantCliques": 1,
         "linkImagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f619ed0-b566-4538-8392-bf02ca7a76cd/dck5gvr-d1a822f4-cb27-46b3-a0ad-5538b486b6f5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNjE5ZWQwLWI1NjYtNDUzOC04MzkyLWJmMDJjYTdhNzZjZFwvZGNrNWd2ci1kMWE4MjJmNC1jYjI3LTQ2YjMtYTBhZC01NTM4YjQ4NmI2ZjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9BrIks7SssFXJqO3zrbCWwfOPzVuui9_Q89iV9uwP2Y"
       }
-    ]
+    ],
+    "tipoPerfil": "administrador"
   }
 ]
